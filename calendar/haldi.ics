@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Gowtham and Tejaswini//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:haldi-2026@gowtham-tejaswini
+DTSTAMP:20261117T000000Z
+DTSTART:20261212T210000Z
+DTEND:20261213T000000Z
+SUMMARY:Haldi · Gowtham & Tejaswini
+LOCATION:One Trenton Events & Retreat\, 11391 State Hwy 121\, Trenton\, TX 75490
+DESCRIPTION:A joyful turmeric ceremony for glow\, blessings and good fortune. Dress code: Yellow / White.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
